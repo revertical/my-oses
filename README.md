@@ -1,2 +1,2 @@
-# my-oses
+# my oses
 my operating systems
